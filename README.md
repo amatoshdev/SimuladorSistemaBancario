@@ -1,4 +1,4 @@
-<h1> Simulação de Sistema Bancário </h1>
+<h1> Simulador de Sistema Bancário </h1>
 
 <h2> Descrição do Projeto </h2>
 
