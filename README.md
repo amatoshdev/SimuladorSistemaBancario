@@ -1,4 +1,4 @@
-<h1> Simulação de Conta Bancária </h1>
+<h1> Simulação de Sistema Bancária </h1>
 
 <h2> Descrição do Projeto </h2>
 
