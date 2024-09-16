@@ -2,7 +2,7 @@
 
 <h2> Descrição do Projeto </h2>
 
-Explicação e instruções acerca do programa:
+**Explicação e instruções acerca do programa:**
 
 À primeira vista, o programa exibe uma mensagem de saudação ao usuário e solicita um nome. Após a inserção do nome por parte do usuário, o prompt exibe uma interface básica simulando um caixa bancário contendo informações, como: nome, tipo de conta e saldo atual da conta (que está definido com um valor fixo em R$ 2.500,00).
 
@@ -15,9 +15,9 @@ Se inserido o número 2, a função de receber um valor estará habilitada e o p
 Se inserido o número 3, desta vez a função de transferir um valor estará habilitada e o prompt exibirá uma mensagem solicitando um valor ao usuário que será transferido de sua conta e subtraido de seu saldo atual.
 
 Se inserido o número 4, o programa é finalizado.
-_______________________________________________________________________________________
+___
 
-Explicação do código:
+**Explicação do código:**
 
 Para capturar as entradas do usuário, foi usada a classe Scanner.
 
@@ -29,7 +29,23 @@ Cada uma das operações catalogadas na lista de opções está escrita dentro d
 
 Caso o usuário digite o número 4, o laço do-while é interrompido e o programa é finalizado.
 
-_______________________________________________________________________________________
+___
+
+<h2> Habilidades adquiridas: </h2>
+
+Esse projeto foi feito quando eu ainda estava aprendendo a aprender linguagens; ou seja, quando ainda estava no começo da minha jornada como programador back-end. Dessa forma, para não parecer redundante as informações colocadas nos tópicos dessa apresentação, listei no tópico "Habilidades requisitadas" não só as habilidadess necessárias para programar esse projeto, mas também as adquiridas por mim nesse processo (que são exatamente as mesmas).
+
+<h2> Habilidades requisitadas: </h2>
+
+Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhecimentos específicos:
+
+1. Declaração de variáveis e tipos primitivos (tipos utilizados: int e double);
+2. Estruturas de repetição (estruturas utilizadas: do-while);
+3. Estruturas condicionais (estruturas utilizadas: if-else);
+4. Operadores de igualdade (operadores utilizados: == e !=);
+5. Operadores de atribuição composta (operadores utilizados: += e -=).
+6. Declaração de Strings;
+7. Importação e aplicação da classe Scanner de acordo com os tipos primitivos e a classe String;
 
 <h2> Linguagens Utilizadas: </h2>
 
@@ -71,4 +87,9 @@ Entrada com o número 4: finalização da operação e do programa <br/> <br/>
 <img src="https://imgur.com/0wZI3rw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Obrigado pela atenção! 😁
+
+___
+
+*Gostaria de agradecer à escola de programação Alura por ter esse projeto em meio ao seu material didático. Sem ele, eu não teria aprendido tanto e muito menos feito esse projeto tão rico para quem está iniciando sua carreira no mundo da tecnologia.*
+
+                     Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
