@@ -92,4 +92,4 @@ ___
 
 *Gostaria de agradecer à escola de programação Alura por ter esse projeto em meio ao seu material didático. Sem ele, eu não teria aprendido tanto e muito menos feito esse projeto tão rico para quem está iniciando sua carreira no mundo da tecnologia.*
 
-    Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
+      Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
