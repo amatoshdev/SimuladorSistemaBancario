@@ -71,3 +71,4 @@ Entrada com o número 4: finalização da operação e do programa <br/> <br/>
 <img src="https://imgur.com/0wZI3rw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+Obrigado pela atenção! 😁
